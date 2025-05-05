@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jericho",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -16,7 +17,6 @@
 	"keywords": [
 		"Name"
 	],
-	"author": "Jericho",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
